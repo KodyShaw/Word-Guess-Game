@@ -1,0 +1,16 @@
+body {
+    background-image: url(../images/globe-earth.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    color: lightgreen;
+    
+}
+.container {
+    margin: auto;
+    text-align: center;
+}
+#currentWord {
+    letter-spacing: 10px;
+}
